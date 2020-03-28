@@ -15,9 +15,9 @@ The root of this repository contains all the notebooks and you will find data, i
 
 The notebooks titles are tagged as following:
 
-[BASIC]         Basic file handling, or module specific notebooks
-[COLOR]         Color manipulation.
-[FILTERING]     Filters applied to an image
-[SEGMENTATION]  How to segment an image using traditional methods
-[ML]            Traditional machine learning approaches
-[DEEP-LEARNING] Methods using neural networks
+- [BASIC]         Basic file handling, or module specific notebooks
+- [COLOR]         Color manipulation.
+- [FILTERING]     Filters applied to an image
+- [SEGMENTATION]  How to segment an image using traditional methods
+- [ML]            Traditional machine learning approaches
+- [DEEP-LEARNING] Methods using neural networks
